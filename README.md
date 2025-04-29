@@ -61,7 +61,7 @@ Gera e retorna um CSV de transações.
 - **Parcela Única**:
   - Quando não houver data de liquidação (parcela única), para a data de liquidação será considerado a `data_compra` + 30 dias.
 - **Identificação única**:
-  - Cada linha no CSV terá um identificador único (`uuid`) gerado no momento da exportação.
+  - Cada linha no CSV terá um identificador único (`uuid`) gerado no momento da exportação (utilizando `SecureRamdom`.
 
 ## Testes
 
