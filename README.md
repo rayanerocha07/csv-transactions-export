@@ -1,6 +1,6 @@
 # Exportação de Transações - CSV
 
-Este projeto contém uma funcionalidade para exportar transações financeiras em formato CSV, agrupando-as por parcelas detalhadas ou parcela única.
+Este projeto contém uma funcionalidade para exportar transações financeiras em formato CSV, agrupando-as por parcelas detalhadas ou parcela única (mais detalhes abaixo).
 
 ## Funcionalidade
 
@@ -73,7 +73,7 @@ Testes de integração foram implementados para garantir:
 
 ## Como rodar o projeto?
 
-Este projeto foi configurado para ser executado em Docker. Siga as instruções abaixo para rodar o projeto no seu ambiente local.
+Este projeto foi configurado para ser executado em Docker. Siga as instruções abaixo para rodar o projeto no seu ambiente local (levando em consideração que você já tem os programas abaixo instalados).
 
 ### Build do Docker
 
